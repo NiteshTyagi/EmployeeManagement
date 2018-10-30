@@ -6,7 +6,7 @@ from tkinter import ttk
 db=mysql.connect(
      host='localhost',
      user='root',
-     passwd='9634788656' ,   
+     passwd='******' ,   
       database="Employee"
 )
 #***************** Execute only once ********************
